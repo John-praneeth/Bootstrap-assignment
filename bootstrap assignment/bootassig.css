@@ -1,0 +1,10 @@
+html {
+  scroll-behavior: smooth;
+}
+
+@media (max-width: 576px) {
+  .container {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
