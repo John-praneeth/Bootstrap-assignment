@@ -7,7 +7,7 @@ This is a responsive web page project created during my internship at PaceWisdom
 - bootassig.html       - Main HTML file
 - bootassig.css        - Custom CSS file
 - README.md            - Project description
-- requirements.txt     - Library information (if any)
+- requirements.txt     - Library information
 
 ## Features
 
