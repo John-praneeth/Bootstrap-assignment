@@ -1,0 +1,2 @@
+# No local dependencies needed for HTML/CSS project.
+# Bootstrap included via CDN.
